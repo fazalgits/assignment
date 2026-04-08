@@ -1,3 +1,4 @@
 Name: Mohd Abdul Fazal
 Role: Student
 Course: Git Basics
+Semester: Spring 2026
